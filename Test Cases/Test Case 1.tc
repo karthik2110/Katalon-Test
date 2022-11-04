@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce343c13-5670-4a7b-85bd-1459468c3d0a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d3eaa46-440e-42fc-b54f-ecae2d05cc19</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d3eaa46-440e-42fc-b54f-ecae2d05cc19</id>
+      <masked>false</masked>
+      <name>streams</name>
+   </variable>
+</TestCaseEntity>
