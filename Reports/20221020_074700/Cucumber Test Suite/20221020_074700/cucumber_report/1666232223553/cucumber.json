@@ -1,0 +1,140 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "To validate the login page with valid user credentials",
+        "description": "",
+        "id": "loginpagefeature;to-validate-the-login-page-with-valid-user-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6399600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigates to Login page",
+            "match": {
+              "location": "LoginPage.NavigatestoLoginPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12846300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enters valid credentials",
+            "match": {
+              "location": "LoginPage.EnteringValidCredentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 809300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Login button",
+            "match": {
+              "location": "LoginPage.LoginButtonClick()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 541500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Verify the home page",
+            "match": {
+              "location": "LoginPage.VerifyHomePage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "LoginPageFeature",
+    "description": "",
+    "id": "loginpagefeature",
+    "keyword": "Feature",
+    "uri": "C:/Users/karthik paperflite/Katalon Studio/Sample/Include/features/LoginPage.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "To validate the practice automation login page with valid user credentials",
+        "description": "",
+        "id": "practiceautomationloginpagefeature;to-validate-the-practice-automation-login-page-with-valid-user-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6319649000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigates to practice automation Login page",
+            "match": {
+              "location": "LoginPage.NavigatestoStudentLoginPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1773519200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enters valid student credentials",
+            "match": {
+              "location": "LoginPage.EnteringValidStudentCredentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5854517500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on submit button",
+            "match": {
+              "location": "LoginPage.SubmitButtonClick()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 916310300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Verify the student home page",
+            "match": {
+              "location": "LoginPage.VerifyStudentHomePage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "PracticeAutomationLoginPageFeature",
+    "description": "",
+    "id": "practiceautomationloginpagefeature",
+    "keyword": "Feature",
+    "uri": "C:/Users/karthik paperflite/Katalon Studio/Sample/Include/features/RealLogin.feature",
+    "tags": []
+  }
+]

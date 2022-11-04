@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+API Test Suite,,,,2022-10-14 07:53:49,2022-10-14 07:53:52,2.983s,PASSED
+,,,,,,,
+Test Cases/API/Get Employee Details,,,,2022-10-14 07:53:49,2022-10-14 07:53:52,2.728s,PASSED
+"response = sendRequestAndVerify(findTestObject(""Object Repository/Sampe API/Sample Get Call""))",,,,2022-10-14 07:53:50,2022-10-14 07:53:52,2.238s,PASSED
+"verifyResponseStatusCode(response, 200)",,,,2022-10-14 07:53:52,2022-10-14 07:53:52,0.030s,PASSED
+"containsString(response, ""tourist_name"", false)",,,,2022-10-14 07:53:52,2022-10-14 07:53:52,0.020s,PASSED
+"getElementPropertyValue(response, ""tourist_name"")",,,,2022-10-14 07:53:52,2022-10-14 07:53:52,0.088s,PASSED

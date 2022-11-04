@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="14.900237">
+<testcase classname="LoginPageFeature" name="To validate the login page with valid user credentials" time="0.032224">
+<system-out><![CDATA[Given User navigates to Login page..........................................passed
+When User enters valid credentials..........................................passed
+And Click on Login button...................................................passed
+Then Verify the home page...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="PracticeAutomationLoginPageFeature" name="To validate the practice automation login page with valid user credentials" time="14.868013">
+<system-out><![CDATA[Given User navigates to practice automation Login page......................passed
+When User enters valid student credentials..................................passed
+And Click on submit button..................................................passed
+Then Verify the student home page...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

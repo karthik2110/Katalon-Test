@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 105.0.0.0,,,2022-09-17 07:51:02,2022-09-17 07:51:09,6.531s,PASSED
+,,,,,,,
+Test Cases/Test Case 1,Chrome 105.0.0.0,,,2022-09-17 07:51:02,2022-09-17 07:51:09,6.209s,PASSED
+"openBrowser("""")",Chrome 105.0.0.0,,,2022-09-17 07:51:03,2022-09-17 07:51:05,2.443s,PASSED
+"navigateToUrl(""https://www.flipkart.com/"")",Chrome 105.0.0.0,,,2022-09-17 07:51:05,2022-09-17 07:51:07,1.858s,PASSED
+takeScreenshot(),Chrome 105.0.0.0,,,2022-09-17 07:51:07,2022-09-17 07:51:08,0.784s,PASSED
+closeBrowser(),Chrome 105.0.0.0,,,2022-09-17 07:51:08,2022-09-17 07:51:09,0.731s,PASSED

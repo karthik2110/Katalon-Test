@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Cucumber Test Suite,Chrome 106.0.0.0,,,2022-10-20 07:47:02,2022-10-20 07:47:19,16.500s,PASSED
+,,,,,,,
+Test Cases/Cucumber Login Page,Chrome 106.0.0.0,,,2022-10-20 07:47:03,2022-10-20 07:47:19,16.258s,PASSED
+"runFeatureFolder(""Include\features"")",Chrome 106.0.0.0,,,2022-10-20 07:47:03,2022-10-20 07:47:19,15.949s,PASSED

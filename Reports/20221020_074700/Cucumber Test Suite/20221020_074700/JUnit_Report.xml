@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Cucumber Test Suite" time="16.5" tests="1" failures="0" errors="0">
+   <testsuite name="Cucumber Test Suite" tests="1" failures="0" errors="0" time="16.5" skipped="0" timestamp="2022-10-20 07:47:02" hostname="karthik paperflite - DESKTOP-EJ642PJ" id="Test Suites/Cucumber Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\karthik paperflite\\Katalon Studio\\Sample\\Reports\\20221020_074700\\Cucumber Test Suite\\20221020_074700"/>
+         <property name="logFiles" value="C:\\Users\\karthik paperflite\\Katalon Studio\\Sample\\Reports\\20221020_074700\\Cucumber Test Suite\\20221020_074700\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\karthik paperflite\\Katalon Studio\\Sample\\Reports\\20221020_074700\\Cucumber Test Suite\\20221020_074700\\1666232230591.png, C:\\Users\\karthik paperflite\\Katalon Studio\\Sample\\Reports\\20221020_074700\\Cucumber Test Suite\\20221020_074700\\1666232232394.png, C:\\Users\\karthik paperflite\\Katalon Studio\\Sample\\Reports\\20221020_074700\\Cucumber Test Suite\\20221020_074700\\1666232239136.png"/>
+         <property name="hostName" value="karthik paperflite - DESKTOP-EJ642PJ"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+         <property name="browser" value="Chrome 106.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.23"/>
+         <property name="sessionId" value="81d2d37c6859e221365a7a63fa01fba5"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Cucumber Login Page" time="16.258" classname="Test Cases/Cucumber Login Page" status="PASSED">
+         <system-out><![CDATA[2022-10-20 07:47:03 - [TEST_CASE][PASSED] - Test Cases/Cucumber Login Page: Test Cases/Cucumber Login Page
+
+2022-10-20 07:47:03 - [TEST_STEP][PASSED] - runFeatureFolder("Include\features"): All feature files in 'Include\features' were passed
+
+2022-10-20 07:47:03 - [MESSAGE][INFO] - Starting run keyword runFeatureFolder: 'Include\features' and extract report to folder: 'C:\Users\karthik paperflite\Katalon Studio\Sample\Reports\20221020_074700\Cucumber Test Suite\20221020_074700/cucumber_report/1666232223553'...
+
+2022-10-20 07:47:04 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-10-20 07:47:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-10-20 07:47:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-10-20 07:47:07 - [MESSAGE][PASSED] - Current window maximized
+
+2022-10-20 07:47:10 - [MESSAGE][PASSED] - Navigate to 'https://practicetestautomation.com/practice-test-login/' successfully
+
+2022-10-20 07:47:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\karthik paperflite\\Katalon Studio\\Sample\\Reports\\20221020_074700\\Cucumber Test Suite\\20221020_074700\\1666232230591.png]]
+
+2022-10-20 07:47:10 - [MESSAGE][PASSED] - Login.NavigatestoStudentLoginPage is PASSED
+
+2022-10-20 07:47:11 - [MESSAGE][PASSED] - Text 'student' is set on object 'Object Repository/Login/Username'
+
+2022-10-20 07:47:12 - [MESSAGE][PASSED] - Text 'Password123' is set on object 'Object Repository/Login/Password'
+
+2022-10-20 07:47:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\karthik paperflite\\Katalon Studio\\Sample\\Reports\\20221020_074700\\Cucumber Test Suite\\20221020_074700\\1666232232394.png]]
+
+2022-10-20 07:47:12 - [MESSAGE][PASSED] - Login.EnteringValidStudentCredentials is PASSED
+
+2022-10-20 07:47:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Submit Button' is clicked on
+
+2022-10-20 07:47:18 - [MESSAGE][PASSED] - Login.SubmitButtonClick is PASSED
+
+2022-10-20 07:47:18 - [MESSAGE][PASSED] - Object 'Object Repository/Login/Practice Menu Option' is present
+
+2022-10-20 07:47:19 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\karthik paperflite\\Katalon Studio\\Sample\\Reports\\20221020_074700\\Cucumber Test Suite\\20221020_074700\\1666232239136.png]]
+
+2022-10-20 07:47:19 - [MESSAGE][PASSED] - Login.VerifyStudentHomePage is PASSED
+
+2022-10-20 07:47:19 - [MESSAGE][PASSED] - All feature files in 'Include\features' were passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-10-20 07:47:02 - [TEST_SUITE][PASSED] - Cucumber Test Suite: Test Cases/Cucumber Login Page]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
